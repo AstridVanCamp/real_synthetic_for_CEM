@@ -3,7 +3,7 @@
 ## Purpose
 This is the code used to train and validate a deep learning and a handcrafted radiomics model on real and synthetic contrast-enhanced mammography data. If you use this code, please refer to our work: 
 
-* Van Camp, A. et al. The impact of synthetic data on a deep learning model for detection and classification in contrast-enhanced mammography. (2024). [Manuscript submitted for publication]
+* Van Camp, A. et al. The impact of synthetic data on a deep learning model for detection and classification in contrast-enhanced mammography. (2024). Journal of Medical Imaging, Vol. 12, Issue S2, S22006 (April 2025). doi:10.1117/1.JMI.12.S2.S22006 [link](https://doi.org/10.1117/1.JMI.12.S2.S22006)
 * Van Camp A. et al., Simulated image-specific microcalcification clusters and associated mass enhancement to enhance training of a deep learning model for cancer detection in contrast-enhanced mammography. International Workshop on Breast Imaging (IWBI 2024). 2024; 1317404. doi:10.1117/12.3026879 [link](https://doi.org/10.1117/12.3026879)
 
 ## Installation
@@ -41,7 +41,7 @@ The folder [radiomics](radiomics) contains all scripts to setup the handcrafted 
 The file [combine_predictions.py](combine_predictions.py) computes all results for the predictions of the deep learning model, the radiomics model, and the ensembled model.
 
 ## Contact
-For more information, questions or bug reporting, please contact a.vancamp@maastrichtuniversity.nl.
+For more information, questions or bug reporting, please contact astrid.vancamp@gmail.com.
 
 
 
